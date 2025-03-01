@@ -1,0 +1,161 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.montserrat {
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+    background-color: hsl(245, 37%, 19%);
+	--font-body: Montserrat, sans-serif;
+	font-family: var(--font-body);
+    color: white;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+
+h1, h2 {
+    text-transform: uppercase;
+    /* text-align: center; */
+	font-weight: 300;
+    line-height: 1em;
+}
+
+button, a {
+    cursor: pointer;
+}
+
+body {
+    line-height: 25.6px;
+	min-height: 100dvh;
+    width: 100%;
+	margin: 0px; /* Remove default margin */
+    /*height: 100dvh; /* Full height of the viewport */
+}
+
+p {
+    font-weight: 400;
+}
+
+
+
+a {
+    color: hsl(240, 100%, 80%);
+    text-decoration: none;
+    font-weight: 700;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+bold, strong {
+    font-weight: 700;
+}
+
+
+
+
+/* section.video button > svg,
+section.image button >svg {
+    text-shadow:
+        0 0 1em rgb(var(--shadow-color)),
+        0 0 2em rgb(var(--shadow-color)),
+        0 0 3em rgb(var(--shadow-color)),
+        0 0 4em rgb(var(--shadow-color));
+} */
+/* p {
+	line-height: 1.5;
+}
+
+a {
+	color: var(--color-theme-1);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 2rem;
+	text-align: center;
+}
+
+h2 {
+	font-size: 1rem;
+}
+
+pre {
+	font-size: 16px;
+	font-family: var(--font-mono);
+	background-color: rgba(255, 255, 255, 0.45);
+	border-radius: 3px;
+	box-shadow: 2px 2px 6px rgb(255 255 255 / 25%);
+	padding: 0.5em;
+	overflow-x: auto;
+	color: var(--color-text);
+}
+
+.text-column {
+	display: flex;
+	max-width: 48rem;
+	flex: 0.6;
+	flex-direction: column;
+	justify-content: center;
+	margin: 0 auto;
+}
+
+input,
+button {
+	font-size: inherit;
+	font-family: inherit;
+}
+
+button:focus:not(:focus-visible) {
+	outline: none;
+}
+
+@media (min-width: 720px) {
+	h1 {
+		font-size: 2.4rem;
+	}
+}
+
+.visually-hidden {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: auto;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+	white-space: nowrap;
+}
+ */
+
+ 
+@media (max-width: 480px) {
+    /* Styles for mobile devices */
+    :root {
+        font-size: 22px;
+    }
+}
+@media (max-width: 320px) {
+    /* Styles for mobile devices */
+    :root {
+        font-size: 20px;
+    }
+}
