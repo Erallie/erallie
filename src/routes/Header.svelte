@@ -91,8 +91,11 @@
         display: flex;
         align-items: center; /* Center items vertically */
         & a {
-            color: white;
+            color: inherit;
             font-weight: initial;
+            display: flex;
+            align-items: center;
+            padding: 6px 10px;
             &:hover {
                 text-decoration: none;
             }
@@ -106,11 +109,16 @@
             display: flex;
             & li {
                 text-align: center;
-                padding: 6px 10px;
                 position: relative;
                 width: max-content;
-                &:hover > ul {
-                    display: block; /* Show nested ul on hover */
+                &:hover {
+                    & > a {
+                        background-color: rgba(0, 0, 0, 0.2);
+                        /* color: black; */
+                    }
+                    & > ul {
+                        display: block; /* Show nested ul on hover */
+                    }
                 }
             }
             & > li {
@@ -119,8 +127,6 @@
                 & > a {
                     height: 100%;
                     box-sizing: border-box;
-                    display: flex; /* Make the anchor a flex container */
-                    align-items: center;
                 }
                 & ul {
                     display: none; /* Hide nested ul by default */
