@@ -88,14 +88,25 @@
     }
 
     nav {
+        display: flex;
+        align-items: center; /* Center items vertically */
+        & a {
+            color: white;
+            font-weight: initial;
+            &:hover {
+                text-decoration: none;
+            }
+        }
         & ul {
             list-style-type: none;
             padding: 0px;
         }
         & > ul {
+            height: 100%;
             display: flex;
             & li {
-                padding: 10px;
+                text-align: center;
+                padding: 6px 10px;
                 position: relative;
                 width: max-content;
                 &:hover > ul {
@@ -103,10 +114,24 @@
                 }
             }
             & > li {
+                height: 100%;
+                box-sizing: border-box;
+                & > a {
+                    height: 100%;
+                    box-sizing: border-box;
+                    display: flex; /* Make the anchor a flex container */
+                    align-items: center;
+                }
                 & ul {
                     display: none; /* Hide nested ul by default */
                     position: absolute; /* Position it absolutely */
-                    background-color: rgba(0, 0, 0, 0.8);
+                    background-color: rgba(0, 0, 0, 0.2);
+                    & li {
+                        width: max-content;
+                        min-width: 100%;
+                        margin: auto;
+                        box-sizing: border-box;
+                    }
                 }
                 & > ul {
                     left: 0; /* Align to the left of the parent li */
@@ -122,8 +147,8 @@
 
     hr.vertical-rule {
         border: none;
-        border-left: 2px solid white; /* Change color and width as needed */
-        height: 100px; /* Set the height of the line */
+        border-left: 1px solid rgba(255, 255, 255, 0.7); /* Change color and width as needed */
+        height: 48px; /* Set the height of the line */
         margin: auto 20px; /* Optional: add some margin */
     }
 </style>
