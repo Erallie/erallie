@@ -52,6 +52,7 @@
         </ul>
     </nav>
 </header>
+<section></section>
 
 <style>
     hgroup {
@@ -162,5 +163,10 @@
         border-left: 1px solid rgba(255, 255, 255, 0.7); /* Change color and width as needed */
         height: 48px; /* Set the height of the line */
         margin: auto 20px; /* Optional: add some margin */
+    }
+
+    section {
+        height: 84px;
+        background-color: black;
     }
 </style>
