@@ -87,7 +87,10 @@
         display: flex;
         justify-content: center;
         width: 100%;
-        background-color: rgba(0, 0, 0, 0.2);
+        background-color: hsl(245, 37%, 17%);
+        position: fixed;
+        top: 0;
+        left: 0;
     }
 
     nav {
@@ -134,7 +137,7 @@
                 & ul {
                     display: none; /* Hide nested ul by default */
                     position: absolute; /* Position it absolutely */
-                    background-color: rgba(0, 0, 0, 0.2);
+                    background-color: hsl(245, 37%, 17%);
                     & li {
                         width: max-content;
                         min-width: 100%;
