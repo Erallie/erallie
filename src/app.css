@@ -9,9 +9,9 @@
 }
 
 :root {
-    background-color: hsl(245, 37%, 19%);
 	--font-body: Montserrat, sans-serif;
 	font-family: var(--font-body);
+    background-color: hsl(245, 37%, 22%);
     color: white;
     overflow-wrap: break-word;
     word-break: break-word;
