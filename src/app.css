@@ -1,94 +1,93 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 
 .montserrat {
-  font-family: "Montserrat", serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+	font-family: "Montserrat", serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
 }
 
 :root {
+	background-color: hsl(245, 37%, 22%);
 	--font-body: Montserrat, sans-serif;
 	font-family: var(--font-body);
-    background-color: hsl(245, 37%, 22%);
-    color: white;
-    overflow-wrap: break-word;
-    word-break: break-word;
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+	color: white;
+	overflow-wrap: break-word;
+	word-break: break-word;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 h1 {
-    font-size: 2em;
+	font-size: 2em;
 }
 
-
-h1, h2 {
-    text-transform: uppercase;
-    /* text-align: center; */
+h1,
+h2 {
+	text-transform: uppercase;
+	/* text-align: center; */
 	font-weight: 300;
-    line-height: 1em;
-    margin: 0.08em;
-    /* margin: 4px; */
+	line-height: 1em;
+	margin: 0.08em;
+	/* margin: 4px; */
 }
 
-button, a {
-    cursor: pointer;
+button,
+a {
+	cursor: pointer;
 }
 
 body {
-    line-height: 25.6px;
+	line-height: 25.6px;
 	min-height: 100dvh;
-    width: 100%;
+	width: 100%;
 	margin: 0px; /* Remove default margin */
-    /*height: 100dvh; /* Full height of the viewport */
+	/*height: 100dvh; /* Full height of the viewport */
 }
 
 p {
-    font-weight: 400;
+	font-weight: 400;
 }
-
-
 
 a {
-    color: hsl(240, 100%, 80%);
-    text-decoration: none;
-    font-weight: 700;
+	color: hsl(240, 100%, 80%);
+	text-decoration: none;
+	font-weight: 700;
 }
 a:hover {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 
-bold, strong {
-    font-weight: 700;
+bold,
+strong {
+	font-weight: 700;
 }
 
 #banner {
-    & > * {
-        margin: auto;
-        margin-right: 40px;
-    }
-    & h1 {
-        text-transform: none;
-        font-size: 3rem;
-        text-shadow: 0 0 0.4em black;
-    }
+	& > * {
+		margin: auto;
+		margin-right: 40px;
+	}
+	& h1 {
+		text-transform: none;
+		font-size: 3rem;
+		text-shadow: 0 0 0.4em black;
+	}
 }
 section.readme-section {
-    background-color: rgba(0, 0, 0, 0.2);
-    border-radius: 40px;
-    margin: 40px auto;
-    max-width: 600px;
-    padding: 40px;
-    & hr {
-        width: 100px;
-        margin: 1em 0px;
-        margin-left: 2px;
-        padding: 0px;
-    }
+	background-color: rgba(0, 0, 0, 0.2);
+	border-radius: 40px;
+	margin: 40px auto;
+	max-width: 600px;
+	padding: 40px;
+	& hr {
+		width: 100px;
+		margin: 1em 0px;
+		margin-left: 2px;
+		padding: 0px;
+	}
 }
 
 /* section.video button > svg,
@@ -170,16 +169,15 @@ button:focus:not(:focus-visible) {
 }
  */
 
- 
 @media (max-width: 480px) {
-    /* Styles for mobile devices */
-    :root {
-        font-size: 22px;
-    }
+	/* Styles for mobile devices */
+	:root {
+		font-size: 22px;
+	}
 }
 @media (max-width: 320px) {
-    /* Styles for mobile devices */
-    :root {
-        font-size: 20px;
-    }
+	/* Styles for mobile devices */
+	:root {
+		font-size: 20px;
+	}
 }
