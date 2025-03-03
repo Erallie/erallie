@@ -77,6 +77,19 @@ bold, strong {
         text-shadow: 0 0 0.4em black;
     }
 }
+section.readme-section {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 40px;
+    margin: 40px auto;
+    max-width: 600px;
+    padding: 40px;
+    & hr {
+        width: 100px;
+        margin: 1em 0px;
+        margin-left: 2px;
+        padding: 0px;
+    }
+}
 
 /* section.video button > svg,
 section.image button >svg {
