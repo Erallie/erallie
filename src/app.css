@@ -66,8 +66,17 @@ bold, strong {
     font-weight: 700;
 }
 
-
-
+#banner {
+    & > * {
+        margin: auto;
+        margin-right: 40px;
+    }
+    & h1 {
+        text-transform: none;
+        font-size: 3rem;
+        text-shadow: 0 0 0.4em black;
+    }
+}
 
 /* section.video button > svg,
 section.image button >svg {
