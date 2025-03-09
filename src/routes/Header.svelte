@@ -85,6 +85,7 @@
 	}
 
 	header {
+		z-index: 100;
 		display: flex;
 		justify-content: center;
 		width: 100%;
