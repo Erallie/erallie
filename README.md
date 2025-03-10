@@ -1,38 +1,17 @@
-# sv
+Hello! We make stuff. **LOTS** of stuff.
+# Who We Are
+We are a branch of [Gozar Productions](https://gozarproductions.com) that makes tools to aid in the use of various programs. If there's something we think a program should do, and we see the functionality doesn't exist, we make it. And then we share it for others to use too.
+# Our Projects
+Our tools range from Discord Bots to Obsidian plugins to VR aids. We make more stuff as we get involved in more stuff. And then we make that stuff free for anyone to use.
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Here are some of our projects:
+## Obsidian Things
+- [Diarian](https://github.com/Erallie/diarian)
+- [Colored Candy](https://github.com/Erallie/colored-candy)
+- [Discord Timestamps](https://github.com/Erallie/discord-timestamps)
+- [CSS Inserter](https://github.com/Erallie/css-inserter)
+## Discord Bots
+- [Voicely Text](https://github.com/Erallie/voicely-text)
+- [Voicely Ping](https://github.com/Erallie/voicely-ping)
+## VR Tools
+- [XS Notify](https://github.com/Erallie/xs-notify)
