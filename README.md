@@ -1,6 +1,6 @@
 Hello! I make stuff. **LOTS** of stuff.
 # What I Do
-This is a branch of [Gozar Productions](https://gozarproductions.com) that makes tools to aid in the use of various programs. If there's something I think a program should do, and I see the functionality doesn't exist, I make it. And then I share it for others to use too.
+I am a completely self-taught branch of [Gozar Productions](https://gozarproductions.com) that makes tools to aid in the use of various programs. If there's something I think a program should do, and I see the functionality doesn't exist, I make it. And then I share it for others to use too.
 # My Projects
 My tools range from Discord Bots to Obsidian plugins to VR aids. I make more stuff as I get involved in more stuff. And then I make that stuff free for anyone to use.
 
