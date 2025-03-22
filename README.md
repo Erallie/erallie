@@ -15,3 +15,5 @@ Here are some of my projects:
 - [**Voicely Ping**](https://github.com/Erallie/voicely-ping) – Set up pings when a voice reaches a certain amount of participants
 ## VR Tools
 - [**XS Notify**](https://github.com/Erallie/xs-notify) – Sends windows notifications to XSOverlay
+## Minecraft Plugins
+- [**DiscordNickSync**](https://github.com/Erallie/discord-nick-sync) – Syncs your Discord nickname to your essentials nickname via DiscordSRV
