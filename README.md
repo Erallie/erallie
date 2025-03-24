@@ -17,3 +17,4 @@ Here are some of my projects:
 - [**XS Notify**](https://github.com/Erallie/xs-notify) – Sends windows notifications to XSOverlay
 ## Minecraft Plugins
 - [**DiscordNickSync**](https://github.com/Erallie/discord-nick-sync) – Syncs your Discord nickname to your essentials nickname via DiscordSRV
+- [**HelpRestored**](https://github.com/Erallie/help-restored) - Restores Bukkit's help.yml to Purpur
