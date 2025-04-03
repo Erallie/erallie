@@ -10,9 +10,18 @@
 </div>
 
 ---
+
 <div align="right">
 
-### Hello! I make stuff. **LOTS** of stuff. <a href="https://github.com/Erallie#gh-dark-mode-only"><img align="right" alt="Erallie's GitHub stats" src="https://readme.gozarproductions.com/api?username=Erallie&show_icons=true&title_color=767adb&text_color=bebecc&border_color=3d444d&icon_color=767adb&ring_color=767adb&bg_color=00000000#gh-dark-mode-only)](https://github.com/Erallie#gh-dark-mode-only"></a> <a href="https://github.com/Erallie#gh-light-mode-only"><img align="right" alt="Erallie's GitHub stats" src="https://readme.gozarproductions.com/api?username=Erallie&show_icons=true&title_color=767adb&text_color=444559&icon_color=767adb&ring_color=767adb&bg_color=00000000&border_color=d1d9e0#gh-light-mode-only)](https://github.com/Erallie#gh-light-mode-only"></a><br clear="right">
+#### <a href="https://github.com/Erallie#gh-dark-mode-only"><img align="right" alt="Erallie's GitHub stats" src="https://readme.gozarproductions.com/api?username=Erallie&show_icons=true&title_color=767adb&text_color=bebecc&border_color=3d444d&icon_color=767adb&ring_color=767adb&bg_color=00000000#gh-dark-mode-only)](https://github.com/Erallie#gh-dark-mode-only"></a>
+
+#### <a href="https://github.com/Erallie#gh-light-mode-only"><img align="right" alt="Erallie's GitHub stats" src="https://readme.gozarproductions.com/api?username=Erallie&show_icons=true&title_color=767adb&text_color=444559&icon_color=767adb&ring_color=767adb&bg_color=00000000&border_color=d1d9e0#gh-light-mode-only)](https://github.com/Erallie#gh-light-mode-only"></a>
+
+<br>
+<br>
+
+### Hello! I make stuff. **LOTS** of stuff.
+<br clear="right">
 </div>
 
 # What I Do
