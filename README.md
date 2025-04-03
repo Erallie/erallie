@@ -1,4 +1,6 @@
 Hello! I make stuff. **LOTS** of stuff.
+
+![Erallie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erallie&show_icons=true&theme=discord_old_blurple)
 # What I Do
 I am a completely self-taught branch of [Gozar Productions](https://gozarproductions.com) that makes tools to aid in the use of various programs. If there's something I think a program should do, and I see the functionality doesn't exist, I make it. And then I share it for others to use too.
 # My Projects
@@ -6,15 +8,15 @@ My tools range from Discord Bots to Obsidian plugins to VR aids. I make more stu
 
 Here are some of my projects:
 ## Obsidian Things
-- [**Diarian**](https://github.com/Erallie/diarian) – All-in-one journaling toolkit.
-- [**Colored Candy**](https://github.com/Erallie/colored-candy) – A cute lil' theme based on your accent color.
-- [**Discord Timestamps**](https://github.com/Erallie/discord-timestamps) – Displays discord timestamps in read mode as they would appear in Discord.
-- [**CSS Inserter**](https://github.com/Erallie/css-inserter) – Inserts user-defined css snippets into the selected text.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erallie&repo=diarian&theme=discord_old_blurple)](https://github.com/Erallie/diarian)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erallie&repo=colored-candy&theme=discord_old_blurple)](https://github.com/Erallie/colored-candy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erallie&repo=discord-timestamps&theme=discord_old_blurple)](https://github.com/Erallie/discord-timestamps)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erallie&repo=css-inserter&theme=discord_old_blurple)](https://github.com/Erallie/css-inserter)
 ## Discord Bots
-- [**Voicely Text**](https://github.com/Erallie/voicely-text) – A discord bot that speaks text from a voice text channel in the associated voice channel using text to speech.
-- [**Voicely Ping**](https://github.com/Erallie/voicely-ping) – Set up pings when a voice reaches a certain amount of participants
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erallie&repo=voicely-text&theme=discord_old_blurple)](https://github.com/Erallie/voicely-text)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erallie&repo=voicely-ping&theme=discord_old_blurple)](https://github.com/Erallie/voicely-ping)
 ## VR Tools
-- [**XS Notify**](https://github.com/Erallie/xs-notify) – Sends windows notifications to XSOverlay
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erallie&repo=xs-notify&theme=discord_old_blurple)](https://github.com/Erallie/xs-notify)
 ## Minecraft Plugins
-- [**DiscordNickSync**](https://github.com/Erallie/discord-nick-sync) – Syncs your Discord nickname to your essentials nickname via DiscordSRV
-- [**HelpRestored**](https://github.com/Erallie/help-restored) - Restores Bukkit's help.yml to Purpur
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erallie&repo=discord-nick-sync&theme=discord_old_blurple)](https://github.com/Erallie/discord-nick-sync)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erallie&repo=help-restored&theme=discord_old_blurple)](https://github.com/Erallie/help-restored)
