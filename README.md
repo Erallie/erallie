@@ -10,7 +10,7 @@
 
 ---
   
-Hello! I make stuff. **LOTS** of stuff.
+### Hello! I make stuff. **LOTS** of stuff.
 
 [![Erallie's GitHub stats](https://readme.gozarproductions.com/api?username=Erallie&show_icons=true&title_color=767adb&text_color=bebecc&border_color=3d444d&icon_color=767adb&ring_color=767adb&bg_color=00000000#gh-dark-mode-only)](https://github.com/Erallie#gh-dark-mode-only)
 [![Erallie's GitHub stats](https://readme.gozarproductions.com/api?username=Erallie&show_icons=true&title_color=767adb&text_color=444559&icon_color=767adb&ring_color=767adb&bg_color=00000000&border_color=d1d9e0#gh-light-mode-only)](https://github.com/Erallie#gh-light-mode-only)
