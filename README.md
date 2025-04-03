@@ -1,7 +1,6 @@
 Hello! I make stuff. **LOTS** of stuff.
 
 ![Erallie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erallie&show_icons=true&theme=discord_old_blurple)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Erallie&theme=discord)](https://github.com/Erallie)
 # What I Do
 I am a completely self-taught branch of [Gozar Productions](https://gozarproductions.com) that makes tools to aid in the use of various programs. If there's something I think a program should do, and I see the functionality doesn't exist, I make it. And then I share it for others to use too.
 # My Projects
