@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Erallie/Gozar-Productions-Website/refs/heads/main/src/lib/images/gozar-productions-logo.svg" width="100px" height="100px">
+<a href="https://gozarproductions.com" target="_blank"><img src="https://raw.githubusercontent.com/Erallie/Gozar-Productions-Website/refs/heads/main/src/lib/images/gozar-productions-logo.svg" width="100px" height="100px"></a>
 
 # GOZAR PRODUCTIONS CODE
 
