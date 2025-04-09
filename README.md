@@ -29,7 +29,7 @@ I am a completely self-taught branch of [Gozar Productions](https://gozarproduct
 My tools range from Discord Bots to Obsidian plugins to VR aids. I make more stuff as I get involved in more stuff. And then I make that stuff free for anyone to use.
 
 Here are some of my projects:
-## Obsidian Things
+## Obsidian Stuff
 [![Diarian](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=diarian&title_color=767adb&text_color=bebecc&border_color=3d444d&icon_color=767adb&bg_color=00000000&description_lines_count=2#gh-dark-mode-only)](https://github.com/Erallie/diarian#gh-dark-mode-only)
 [![Diarian](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=diarian&title_color=767adb&text_color=444559&icon_color=767adb&bg_color=00000000&description_lines_count=2&border_color=d1d9e0#gh-light-mode-only)](https://github.com/Erallie/diarian#gh-light-mode-only)
 [![Colored Candy](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=colored-candy&title_color=767adb&text_color=bebecc&border_color=3d444d&icon_color=767adb&bg_color=00000000&description_lines_count=2#gh-dark-mode-only)](https://github.com/Erallie/colored-candy#gh-dark-mode-only)
@@ -43,13 +43,13 @@ Here are some of my projects:
 [![Voicely Text](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=voicely-text&title_color=767adb&text_color=444559&icon_color=767adb&bg_color=00000000&border_color=d1d9e0#gh-light-mode-only)](https://github.com/Erallie/voicely-text#gh-light-mode-only)
 [![Voicely Ping](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=voicely-ping&title_color=767adb&text_color=bebecc&border_color=3d444d&icon_color=767adb&bg_color=00000000#gh-dark-mode-only)](https://github.com/Erallie/voicely-ping#gh-dark-mode-only)
 [![Voicely Ping](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=voicely-ping&title_color=767adb&text_color=444559&icon_color=767adb&bg_color=00000000&border_color=d1d9e0#gh-light-mode-only)](https://github.com/Erallie/voicely-ping#gh-light-mode-only)
-## Minecraft Plugins
+## Minecraft Stuff
 [![DiscordNickSync](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=discord-nick-sync&title_color=767adb&text_color=bebecc&border_color=3d444d&icon_color=767adb&bg_color=00000000&description_lines_count=2#gh-dark-mode-only)](https://github.com/Erallie/discord-nick-sync#gh-dark-mode-only)
 [![DiscordNickSync](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=discord-nick-sync&title_color=767adb&text_color=444559&icon_color=767adb&bg_color=00000000&description_lines_count=2&border_color=d1d9e0#gh-light-mode-only)](https://github.com/Erallie/discord-nick-sync#gh-light-mode-only)
 [![HelpRestored](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=help-restored&title_color=767adb&text_color=bebecc&border_color=3d444d&icon_color=767adb&bg_color=00000000&description_lines_count=2#gh-dark-mode-only)](https://github.com/Erallie/help-restored#gh-dark-mode-only)
 [![HelpRestored](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=help-restored&title_color=767adb&text_color=444559&icon_color=767adb&bg_color=00000000&description_lines_count=2&border_color=d1d9e0#gh-light-mode-only)](https://github.com/Erallie/help-restored#gh-light-mode-only)
-## Miscellaneous
-[![XS Notify](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=xs-notify&title_color=767adb&text_color=bebecc&border_color=3d444d&icon_color=767adb&bg_color=00000000&description_lines_count=2#gh-dark-mode-only)](https://github.com/Erallie/xs-notify#gh-dark-mode-only)
-[![XS Notify](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=xs-notify&title_color=767adb&text_color=444559&icon_color=767adb&bg_color=00000000&border_color=d1d9e0&description_lines_count=2#gh-light-mode-only)](https://github.com/Erallie/xs-notify#gh-light-mode-only)
 [![Modrinth Sync](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=modrinth-sync&title_color=767adb&text_color=bebecc&border_color=3d444d&icon_color=767adb&bg_color=00000000&description_lines_count=2#gh-dark-mode-only)](https://github.com/Erallie/modrinth-sync#gh-dark-mode-only)
 [![Modrinth Sync](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=modrinth-sync&title_color=767adb&text_color=444559&icon_color=767adb&bg_color=00000000&border_color=d1d9e0&description_lines_count=2#gh-light-mode-only)](https://github.com/Erallie/modrinth-sync#gh-light-mode-only)
+## VR Tools
+[![XS Notify](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=xs-notify&title_color=767adb&text_color=bebecc&border_color=3d444d&icon_color=767adb&bg_color=00000000&description_lines_count=2#gh-dark-mode-only)](https://github.com/Erallie/xs-notify#gh-dark-mode-only)
+[![XS Notify](https://readme.gozarproductions.com/api/pin/?username=Erallie&repo=xs-notify&title_color=767adb&text_color=444559&icon_color=767adb&bg_color=00000000&border_color=d1d9e0&description_lines_count=2#gh-light-mode-only)](https://github.com/Erallie/xs-notify#gh-light-mode-only)
