@@ -24,7 +24,7 @@ Here are some of my projects:
 ## Obsidian Stuff
 - [**Diarian**](https://github.com/Erallie/diarian): All-in-one journalling toolkit.
 - [**Colored Candy**](https://github.com/Erallie/colored-candy): A cute lil' theme based on your accent color.
-- [**Discord Timestamps**](https://github.com/Erallie/discord-timestamps): Displays Discord timestamps in read mode as they would appear in Discord.
+- [**Discord Timestamps**](https://github.com/Erallie/discord-timestamps): Displays discord timestamps in read mode as they would appear in Discord.
 - [**CSS Inserter**](https://github.com/Erallie/css-inserter): Inserts user-defined css snippets into the selected text.
 ## Discord Bots
 - [**Voicely Text**](https://github.com/Erallie/voicely-text): A discord bot that speaks text from a voice text channel in the associated voice channel using text to speech.
