@@ -39,3 +39,4 @@ Here are some of my projects:
 - [**The Crawling Ladybug**](https://ladybug.gozarproductions.com): A ladybug crawls across the screen following your cursor and leaving behind a trail of grass and flowers.
 - [**Daylight Saving Time Converter**](https://dst.gozarproductions.com): Generates a link that auto-converts a timestamp to the user's local time, displaying in both Daylight Time and Standard Time.
 - [**Local Time Google Calendar**](https://calendar.gozarproductions.com): A website that can generate a link of a google calendar that always displays in the viewer's local time. This was made for the purpose of online events.
+- [**VRChat Avatar OSC**](https://github.com/Erallie/vrchat-avatar-osc): Toggles avatar parameters based on a UDP broadcast message
