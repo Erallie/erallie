@@ -27,9 +27,10 @@ Here are some of my projects:
 - [**Discord Timestamps**](https://github.com/Erallie/discord-timestamps): Displays discord timestamps in read mode as they would appear in Discord.
 - [**CSS Inserter**](https://github.com/Erallie/css-inserter): Inserts user-defined css snippets into the selected text.
 ## Discord Bots
-- [**Voicely Text**](https://github.com/Erallie/voicely-text): A discord bot that speaks text from a voice text channel in the associated voice channel using text to speech.
-- [**Voicely Ping**](https://github.com/Erallie/voicely-ping): Sets up pings when a voice channel reaches a certain amount of participants.
-- [**Voicely Role**](https://github.com/Erallie/voicely-role): A Discord bot that pings a role when there are a certain number of people in a voice channel.
+- [**Voicely Text**](https://voicely.gozarproductions.com/text/): A discord bot that speaks text from a voice text channel in the associated voice channel using text to speech.
+- [**Voicely Ping**](https://voicely.gozarproductions.com/ping/): Sets up pings when a voice channel reaches a certain amount of participants.
+- [**Voicely Role**](https://voicely.gozarproductions.com/role/): A Discord bot that pings a role when there are a certain number of people in a voice channel.
+- [**Voicely Translate**](https://voicely.gozarproductions.com/translate/): Translates speech from voice channels into the side chat.
 ## Minecraft Stuff
 - [**DiscordNickSync**](https://github.com/Erallie/discord-nick-sync): Syncs your Discord nickname to your essentials nickname via DiscordSRV
 - [**HelpRestored**](https://github.com/Erallie/help-restored): Restores Bukkit's help.yml to PurPur
