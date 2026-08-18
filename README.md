@@ -35,9 +35,10 @@ Here are some of my projects:
 - [**DiscordNickSync**](https://github.com/Erallie/discord-nick-sync): Syncs your Discord nickname to your essentials nickname via DiscordSRV
 - [**HelpRestored**](https://github.com/Erallie/help-restored): Restores Bukkit's help.yml to PurPur
 - [**Modrinth Sync**](https://github.com/Erallie/modrinth-sync): A set of workflows that allow your plugin releases to be automatically pushed to modrinth.
-## Miscellaneous Stuff
-- [**XS Notify**](https://github.com/Erallie/xs-notify): Sends windows notifications to XSOverlay
+## Standalone Websites
 - [**The Crawling Ladybug**](https://ladybug.gozarproductions.com): A ladybug crawls across the screen following your cursor and leaving behind a trail of grass and flowers.
 - [**Daylight Saving Time Converter**](https://dst.gozarproductions.com): Generates a link that auto-converts a timestamp to the user's local time, displaying in both Daylight Time and Standard Time.
 - [**Local Time Google Calendar**](https://calendar.gozarproductions.com): A website that can generate a link of a google calendar that always displays in the viewer's local time. This was made for the purpose of online events.
+## Standalone Apps
+- [**XS Notify**](https://github.com/Erallie/xs-notify): Sends windows notifications to XSOverlay
 - [**VRCAviTrig**](https://github.com/Erallie/VRCAviTrig): Triggers avatar parameters based on a UDP broadcast message
