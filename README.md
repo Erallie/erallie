@@ -31,6 +31,7 @@ Here are some of my projects:
 - [**Voicely Ping**](https://voicely.gozarproductions.com/ping/): Sets up pings when a voice channel reaches a certain amount of participants.
 - [**Voicely Role**](https://voicely.gozarproductions.com/role/): A Discord bot that pings a role when there are a certain number of people in a voice channel.
 - [**Voicely Translate**](https://voicely.gozarproductions.com/translate/): Translates speech from voice channels into the side chat.
+- [**StreamBridge**](https://streambridge.gozarproductions.com): A tool that bridges chat between various streaming platforms as well as Discord.
 ## Minecraft Stuff
 - [**DiscordNickSync**](https://github.com/Erallie/discord-nick-sync): Syncs your Discord nickname to your essentials nickname via DiscordSRV
 - [**HelpRestored**](https://github.com/Erallie/help-restored): Restores Bukkit's help.yml to PurPur
@@ -40,5 +41,5 @@ Here are some of my projects:
 - [**Daylight Saving Time Converter**](https://dst.gozarproductions.com): Generates a link that auto-converts a timestamp to the user's local time, displaying in both Daylight Time and Standard Time.
 - [**Local Time Google Calendar**](https://calendar.gozarproductions.com): A website that can generate a link of a google calendar that always displays in the viewer's local time. This was made for the purpose of online events.
 ## Standalone Apps
-- [**XS Notify**](https://github.com/Erallie/xs-notify): Sends windows notifications to XSOverlay
-- [**VRCAviTrig**](https://github.com/Erallie/VRCAviTrig): Triggers avatar parameters based on a UDP broadcast message
+- [**XS Notify**](https://github.com/Erallie/xs-notify): Sends windows notifications to XSOverlay.
+- [**VRCAviTrig**](https://github.com/Erallie/VRCAviTrig): Triggers avatar parameters based on a UDP broadcast message.
