@@ -32,6 +32,8 @@ Here are some of my projects:
 - [**Voicely Role**](https://voicely.gozarproductions.com/role/): A Discord bot that pings a role when there are a certain number of people in a voice channel.
 - [**Voicely Translate**](https://voicely.gozarproductions.com/translate/): Translates speech from voice channels into the side chat.
 - [**StreamBridge**](https://streambridge.gozarproductions.com): A tool that bridges chat between various streaming platforms as well as Discord.
+## VRChat Tools
+- [**Stage Amplifier and Whitelist**](https://github.com/Erallie/stage-amplifier-and-whitelist): A Stage Amplifier and Whitelist for your VRChat worlds.
 ## Minecraft Stuff
 - [**DiscordNickSync**](https://github.com/Erallie/discord-nick-sync): Syncs your Discord nickname to your essentials nickname via DiscordSRV
 - [**HelpRestored**](https://github.com/Erallie/help-restored): Restores Bukkit's help.yml to PurPur
