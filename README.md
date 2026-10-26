@@ -33,7 +33,7 @@ Here are some of my projects:
 - [**Voicely Translate**](https://voicely.gozarproductions.com/translate/): Translates speech from voice channels into the side chat.
 - [**StreamBridge**](https://streambridge.gozarproductions.com): A tool that bridges chat between various streaming platforms as well as Discord.
 ## VRChat Tools
-- [**Stage Amplifier and Whitelist**](https://github.com/Erallie/stage-amplifier-and-whitelist): A system with a voice amplifier and whitelist for VRChat worlds that is easy on the ears, doesn't get too loud, and can still be heard well globally. Can integrate with ProTV's whitelist.
+- [**Stage Amplifier and Whitelist**](https://github.com/Erallie/stage-amplifier-and-whitelist): A system with a voice amplifier and whitelist for VRChat worlds that is easy on the ears, doesn't get too loud, and can still be heard well globally. Can integrate with AccessTXL or ProTV's whitelist.
 - [**Dolly Importer**](https://github.com/Erallie/dolly-importer): Automatically imports your exported dolly json into your VRChat world.
 ## Minecraft Stuff
 - [**DiscordNickSync**](https://github.com/Erallie/discord-nick-sync): Syncs your Discord nickname to your essentials nickname via DiscordSRV
